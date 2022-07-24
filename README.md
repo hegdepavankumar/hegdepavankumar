@@ -1,5 +1,6 @@
 
-### Hola, I'm Pavankumar Hegde 👋![HelloDogedashGIF](https://user-images.githubusercontent.com/85627085/180628717-daefe004-15e5-4e9f-8944-e61aa43c9626.gif)
+### Hola, I'm Pavankumar Hegde ![HiWaveGIF](https://user-images.githubusercontent.com/85627085/180628851-3e83995f-a51b-4e4e-ba45-3f63aafd492c.gif)
+
 
 
 Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
