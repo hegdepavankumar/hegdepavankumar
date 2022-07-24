@@ -25,7 +25,7 @@ I'm a Developer, and Student!! <br>
 <br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"> <br>
 
-🖇👨 Social ....,<br>
+🖇👨 Socials ....,<br>
 <br>
  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'"> <br>
  LINK:- https://www.hackerrank.com/puhegde01  <br>
@@ -39,9 +39,10 @@ I'm a Developer, and Student!! <br>
  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"> <br>
  LINK:- https://www.snapchat.com/add/mr_hegde01?share_id=LMEhGGOfr-Q&locale=en-US <br>
  <br>
+ <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <br>
+ LINK:- http://hegdepavan.unaux.com/ <br>
+ <br>
     
-
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
