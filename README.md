@@ -25,10 +25,17 @@ I'm a Developer, and Student!! <br>
  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'"> <br>
  LINK:- https://www.hackerrank.com/puhegde01  <br>
  <br>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <br>
+ LINK:- https://www.instagram.com/iampavankumarhegde/  <br>
+ <br>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <br>
+ LINK:- https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
+ <br>
+ <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"> <br>
+ LINK:- https://www.snapchat.com/mr_hegde01/
+ <br>
+    
 
-Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
-    Instagram :- https://www.instagram.com/iampavankumarhegde/ <br>
-</br>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
