@@ -42,6 +42,13 @@ I'm a Developer, and Student!! <br>
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <br>
  LINK:- http://hegdepavan.unaux.com/ <br>
  <br>
+ 
+ 📱 Contact Me...<br>
+ <br>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <br>
+ puhegde01@gmail.com <br> 
+ <br>
+ <br>
     
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
