@@ -1,5 +1,6 @@
 
 ### Hola, I'm Pavankumar Hegde ![HiWaveGIF](https://user-images.githubusercontent.com/85627085/180628851-3e83995f-a51b-4e4e-ba45-3f63aafd492c.gif)
+<center> MY LAPTOP </center>
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
 
 
@@ -11,7 +12,20 @@ I'm a Developer, and Student!! <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2022 Goals: Learn more about web3 <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
-🖇️How to reach me :-
+🌐 Web Browsers ⬇️👇 <br>
+<br>
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"> <br>
+
+💻 Terminal ⬇️ <br>
+<br>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"> <br>
+
+🖇👨 Social ....,<br>
+<br>
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'"> <br>
+ LINK:- https://www.hackerrank.com/puhegde01  <br>
+ <br>
+
 Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
     Instagram :- https://www.instagram.com/iampavankumarhegde/ <br>
 </br>
