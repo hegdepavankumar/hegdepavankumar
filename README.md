@@ -17,4 +17,4 @@ Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
 </br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavankumar-Hegde&&show_icons=true&title_color=ffafff&icon_color=bb7acf&text_color=daf7dc&bg_color=150515">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
