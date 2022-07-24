@@ -4,10 +4,9 @@
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
 
 
-Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
-<br>
+
+
 I'm a Developer, and Student!! <br>
-🔭 Check out my VS Code course: Become A VS Code SuperHero!! <br>
 🌱 I’m currently learning everything 🤣 (Blockchain) <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2022 Goals: Learn more about web3 <br>
