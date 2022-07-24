@@ -1,6 +1,5 @@
 
 Hi there, I'm Pavankumar Hegde 👋
-YouTube Channel Subscribers Website Twitter Follow
 
 Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
 
