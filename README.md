@@ -21,7 +21,8 @@ Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pavankumar-Hegde&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-e24f26?logo=html5&logoColor=aff"> <img src="https://img.shields.io/badge/-CSS-e34i26?logo=css5&logoColor=bff"> <img src="https://img.shields.io/badge/-C++-e34f56?logo=c++5&logoColor=cff"> <img src="https://img.shields.io/badge/-SHELL-e74f26?logo=shell5&logoColor=fff"> <img src="https://img.shields.io/badge/-RUBY-e34f06?logo=ruby5&logoColor=fff"> <img src="https://img.shields.io/badge/-C-e34f55?logo=c5&logoColor=fff"> <img src="https://img.shields.io/badge/-JAVASCRIPT-e88f26?logo=javascript5&logoColor=fff">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar-Hegde&show_icons=true&theme=radical">
 
