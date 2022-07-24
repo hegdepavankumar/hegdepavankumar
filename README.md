@@ -11,7 +11,9 @@ I'm a Developer, and Student!! <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2022 Goals: Learn more about web3 <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
-🖇️How to reach me :- https://www.linkedin.com/in/pavankumar-hegde-01959a225/
+🖇️How to reach me :-
+Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
+    Instagram :- https://www.instagram.com/iampavankumarhegde/ <br>
 </br>
 
 
