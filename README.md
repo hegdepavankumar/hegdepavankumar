@@ -10,7 +10,6 @@ I'm a Developer, and Student!! <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2022 Goals: Learn more about web3 <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
-![MessageNotificationGIF](https://user-images.githubusercontent.com/85627085/180628707-3ba59192-825d-4878-93b2-62d9ea4f4596.gif)
-
+🖇️How to reach me :- https://www.linkedin.com/in/pavankumar-hegde-01959a225/
 
 </br>
