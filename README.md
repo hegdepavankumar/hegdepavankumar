@@ -89,12 +89,12 @@ I'm a Developer, and Student!! <br>
 <br>
 
 
+## Snake Eating My Contribution Graph
+![snake gif](https://github.com/Pavankumar-Hegde/Pavankumar-Hegde/blob/output/github-contribution-grid-snake.gif)
+
+
 Support Me <br>
 
 <a href="https://www.buymeacoffee.com/PavankumarHegde" target="Pavankumar-Hegde"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-## Snake Eating My Contribution Graph
-![snake gif](https://github.com/Pavankumar-Hegde/Pavankumar-Hegde/blob/output/github-contribution-grid-snake.gif)
 
 
