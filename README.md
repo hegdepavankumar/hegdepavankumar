@@ -27,7 +27,7 @@ Linkdin  https://www.linkedin.com/in/pavankumar-hegde-01959a225/ <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavankumar-Hegde&theme=vue">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Pavankumar_Hegde&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username=Pavankumar-Hegde&theme=minimal">
 
 
 
