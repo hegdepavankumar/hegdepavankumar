@@ -1,5 +1,6 @@
 
 ### Hola, I'm Pavankumar Hegde ![HiWaveGIF](https://user-images.githubusercontent.com/85627085/180628851-3e83995f-a51b-4e4e-ba45-3f63aafd492c.gif)
+<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
 
 
 Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
