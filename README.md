@@ -59,7 +59,7 @@ I'm a Developer, and Student!! <br>
  LINK:- https://www.linkedin.com/in/pavankumar-hegde-1007b8246/ <br>
  <br>
  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"> <br>
- LINK:- https://www.snapchat.com/add/mr_hegde01?share_id=LMEhGGOfr-Q&locale=en-US <br>
+ LINK:- https://www.snapchat.com/add/mr_hegde01/ <br>
  <br>
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <br>
  LINK:- http://hegdepavan.unaux.com/ <br>
