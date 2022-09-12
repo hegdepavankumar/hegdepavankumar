@@ -14,23 +14,9 @@ I'm a Developer, and Student!! <br>
 <br>
 
 🖇👨 Socials ....,<br>
-<br>
- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'"> <br>
- LINK:- https://www.hackerrank.com/puhegde01  <br>
- <br>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <br>
- LINK:- https://www.instagram.com/iampavankumarhegde/  <br>
- <br>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <br>
- LINK:- https://www.linkedin.com/in/pavankumar-hegde-1007b8246/ <br>
- <br>
- <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"> <br>
- LINK:- https://www.snapchat.com/add/mr_hegde01/ <br>
- <br>
- <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <br>
- LINK:- http://hegdepavan.unaux.com/ <br>
- <br>
- 
+[![Twitter Badge](https://img.shields.io/badge/-@ridsuteri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridsuteri)](https://twitter.com/ridsuteri) [![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/) 
+[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
+
  📱 Contact Me...<br>
  <br>
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <br>
