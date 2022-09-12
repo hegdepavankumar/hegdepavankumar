@@ -14,7 +14,7 @@ I'm a Developer, and Student!! <br>
 <br>
 
 🖇👨 Socials ....,<br>
- [![Linkedin Badge](https://img.shields.io/badge/pavankumar-hegde--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde/)](https://www.linkedin.com/in/pavankumar-hegde/) 
+[![Linkedin Badge](https://img.shields.io/badge/-pavankumar%20hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde-1007b8246/) 
 [![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
 
  📱 Contact Me...<br>
