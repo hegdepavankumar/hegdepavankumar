@@ -14,7 +14,7 @@ I'm a Developer, and Student!! <br>
 <br>
 
 🖇👨 Socials ....,<br>
-[![Twitter Badge](https://img.shields.io/badge/-@ridsuteri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridsuteri)](https://twitter.com/ridsuteri) [![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/) 
+ [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde/)](https://www.linkedin.com/in/pavankumar-hegde/) 
 [![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
 
  📱 Contact Me...<br>
