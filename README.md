@@ -13,14 +13,12 @@ I'm a Developer, and Student!! <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
 <br>
 
-🖇👨 Socials ....,<br>
+📱 Contact Me...<br>
 [![Linkedin Badge](https://img.shields.io/badge/-pavankumar%20hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde-1007b8246/) 
-[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com)
 
- 📱 Contact Me...<br>
- <br>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <br>
- puhegde01@gmail.com <br> 
+ 
+
  <br>
  <br>
     
