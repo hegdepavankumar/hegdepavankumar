@@ -11,6 +11,9 @@ I'm a Developer, and Student!! <br>
 🥅 2022 Goals: Learn more about web3 <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
 <br>
+<p><em>Software Development Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<br>
 
 📱 Contact Me...<br>
 [![Linkedin Badge](https://img.shields.io/badge/-pavankumar%20hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde-1007b8246/) 
@@ -23,7 +26,7 @@ I'm a Developer, and Student!! <br>
 const Pavankumar Hegde = {
     pronouns: "He" | "Him",
     code: [Javascript, C++, Java, Python],
-    askMeAbout: ["Web Developemnt","Full-Stack Development"],
+    askMeAbout: ["Software Development Engineer",Web Developemnt","Full-Stack Development"],
     technologies:{
        frontEnd: {
             js: ["React"],
