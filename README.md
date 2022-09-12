@@ -1,5 +1,6 @@
 
-### Hola, I'm Pavankumar Hegde ![HiWaveGIF](https://user-images.githubusercontent.com/85627085/180628851-3e83995f-a51b-4e4e-ba45-3f63aafd492c.gif)
+### Hola, I'm Pavankumar Hegde !<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <center> MY LAPTOP </center>
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
 
