@@ -16,11 +16,31 @@ I'm a Developer, and Student!! <br>
 📱 Contact Me...<br>
 [![Linkedin Badge](https://img.shields.io/badge/-pavankumar%20hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde-1007b8246/) 
 [![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com)
-
- 
-
  <br>
  <br>
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Pavankumar Hegde = {
+    pronouns: "He" | "Him",
+    code: [Javascript, C++, Java, Python],
+    askMeAbout: ["Web Developemnt","Full-Stack Development"],
+    technologies:{
+       frontEnd: {
+            js: ["React"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase", "socket.io"]
+    },
+    challenge: "I am trying to do more open source contributions",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
     
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
