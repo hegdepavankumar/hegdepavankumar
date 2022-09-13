@@ -18,7 +18,7 @@ I'm a Developer, and Student!! <br>
 📱 Connect With  Me...<br>
 [![Linkedin Badge](https://img.shields.io/badge/-pavankumar%20hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde-1007b8246/) 
 [![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-@pavankumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/iampavankumarhegde/ )
+
  <br>
  <br>
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
