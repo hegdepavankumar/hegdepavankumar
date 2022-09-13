@@ -63,6 +63,12 @@ const Pavankumar Hegde = {
 ## Snake Eating My Contribution Graph
 ![snake gif](https://github.com/Pavankumar-Hegde/Pavankumar-Hegde/blob/output/github-contribution-grid-snake.gif)
 
+<br>
+<br>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Pavankumar-Hegde" alt="visitor badge"/>
+</p>
+
 
 Support Me <br>
 
