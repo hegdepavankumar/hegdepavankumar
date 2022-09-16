@@ -47,36 +47,36 @@ const Pavankumar Hegde = {
 ```
     
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavankumar-Hegde&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hegdepavankumar&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavankumar-Hegde&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://img.shields.io/badge/-HTML-e24f26?logo=html5&logoColor=aff"> <img src="https://img.shields.io/badge/-CSS-e34i26?logo=css5&logoColor=bff"> <img src="https://img.shields.io/badge/-C++-e34f56?logo=c++5&logoColor=cff"> <img src="https://img.shields.io/badge/-SHELL-e74f26?logo=shell5&logoColor=fff"> <img src="https://img.shields.io/badge/-RUBY-e34f06?logo=ruby5&logoColor=fff"> <img src="https://img.shields.io/badge/-C-e34f55?logo=c5&logoColor=fff"> <img src="https://img.shields.io/badge/-JAVASCRIPT-e88f26?logo=javascript5&logoColor=fff">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar-Hegde&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&show_icons=true&theme=radical">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavankumar-Hegde&theme=vue">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hegdepavankumar&theme=vue">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Pavankumar-Hegde&theme=minimal"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=hegdepavankumar&theme=minimal"> 
 <br>
 
 
 ## Snake Eating My Contribution Graph
-![snake gif](https://github.com/Pavankumar-Hegde/Pavankumar-Hegde/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hegdepavankumar/hegdepavankumar/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 <br>
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Pavankumar-Hegde" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
 
 
 Support Me <br>
 
-<a href="https://www.buymeacoffee.com/PavankumarHegde" target="Pavankumar-Hegde"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="hegdepavankumar"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
-<img src="https://app.codiga.io/hub/user/github/pavankumar-hegde/assistant/badges/signup">
+<img src="https://app.codiga.io/hub/user/github/hegdepavankumar/assistant/badges/signup">
 
 
