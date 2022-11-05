@@ -6,9 +6,9 @@
 
 
 I'm a Developer, and Student!! <br>
-🌱 I’m currently learning everything 🤣 (Blockchain) <br>
+🌱 I’m currently learning everything 🤣 (Devops) <br>
 👯 I’m looking to collaborate with other content creators <br>
-🥅 2022 Goals: Learn more about web3 <br>
+🥅 2022 Goals: Learn more about Devops, Networking <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
 <br>
 <p><em>Software Development Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -27,7 +27,7 @@ I'm a Developer, and Student!! <br>
 ```javascript
 const Pavankumar Hegde = {
     pronouns: "He" | "Him",
-    code: [Javascript, C++, Java, Python],
+    code: [C++, Java, Python],
     askMeAbout: ["Software Development Engineer",Cloud Engineer","Devops Engineer"],
     technologies:{
       
