@@ -28,19 +28,20 @@ I'm a Developer, and Student!! <br>
 const Pavankumar Hegde = {
     pronouns: "He" | "Him",
     code: [Javascript, C++, Java, Python],
-    askMeAbout: ["Software Development Engineer",Web Developemnt","Full-Stack Development"],
+    askMeAbout: ["Software Development Engineer",Cloud Engineer","Devops Engineer"],
     technologies:{
-       frontEnd: {
-            js: ["React"],
-            css: ["bootstrap"]
+      
+            SCM : ["Github"],
+            CI/CD: ["Jenkins"],
+            Containerized Application Devlopment : ["Docker"],
+            Container Orchestration : ["Kubernetes"],
+            Monitoring : ["Grafana"],
+            Cloud : ["AWS", "Azure", "GCP"],
+            Scripting : ["Python", "Power Shell", "Bash"],
+            Database : ["MySQL", "PostgreSQL", "MongoDB"]
+            
         },
-        backEnd: {
-            js: ["node", "express"],
-        },
-        devOps: ["AWS", "Google Cloud"],
-        databases: ["mongo","sql"],
-        misc: ["Firebase", "socket.io"]
-    },
+    
     challenge: "I am trying to do more open source contributions",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
