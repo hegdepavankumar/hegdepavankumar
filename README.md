@@ -32,7 +32,7 @@ const Pavankumar Hegde = {
     technologies:{
       
             SCM : ["Github"],
-            Programming : ["Python","Java"], ["C++"],
+            Programming : ["Python","Java","C++"],
             Web technologies : ["HTML","CSS","Js", "Bootstrap"],
             Cloud : [ "Azure", "GCP"],
             Scripting : ["Python", "Power Shell", "Bash"],
