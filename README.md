@@ -6,7 +6,7 @@
 
 
 I'm a Developer, and Student!! <br>
-🌱 I’m currently learning everything 🤣 (Devops) <br>
+🌱 I’m currently learning everything 🤣 (Data Engineering) <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2023 Goals: Learn more about Cloud, Data Science <br>
 ⚡ Fun fact: Travelling and Bike Riding <br>
@@ -36,9 +36,9 @@ const Pavankumar Hegde = {
             Containerized Application Devlopment : ["Docker"],
             Container Orchestration : ["Kubernetes"],
             Monitoring : ["Grafana"],
-            Cloud : ["AWS", "Azure", "GCP"],
+            Cloud : [ "Azure", "GCP"],
             Scripting : ["Python", "Power Shell", "Bash"],
-            Database : ["MySQL", "PostgreSQL", "MongoDB"]
+            Database : ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"]
             
         },
     
