@@ -28,16 +28,15 @@ I'm a Developer, and Student!! <br>
 const Pavankumar Hegde = {
     pronouns: "He" | "Him",
     code: [C++, Java, Python],
-    askMeAbout: ["Software Development Engineer",Cloud Engineer","Devops Engineer"],
+    askMeAbout: ["Software Development Engineer","Data Engineer"],
     technologies:{
       
             SCM : ["Github"],
-            CI/CD: ["Jenkins"],
-            Containerized Application Devlopment : ["Docker"],
-            Container Orchestration : ["Kubernetes"],
-            Monitoring : ["Grafana"],
+            Programming : ["Python","Java"], ["C++"],
+            Web technologies : ["HTML","CSS","Js", "Bootstrap"],
             Cloud : [ "Azure", "GCP"],
             Scripting : ["Python", "Power Shell", "Bash"],
+            Big Data : ["Hadoop", "Spark", "Hive", "Spark SQL", "ETL Pipeline"],
             Database : ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"]
             
         },
