@@ -5,13 +5,13 @@
 
 
 
-I'm a Developer, and Student!! <br>
+I'm a Software Developer/ Data Engineer, !! <br>
 🌱 I’m currently learning everything 🤣 (Data Engineering) <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2023 Goals: Learn more about Cloud, Data Science <br>
 ⚡ Fun fact: I am A Hacker..👨‍💻 <br>
 <br>
-<p><em>Software Development Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Development Engineer / Data Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <br>
 
