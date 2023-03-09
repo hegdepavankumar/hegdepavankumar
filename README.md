@@ -9,7 +9,7 @@ I'm a Developer, and Student!! <br>
 🌱 I’m currently learning everything 🤣 (Data Engineering) <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2023 Goals: Learn more about Cloud, Data Science <br>
-⚡ Fun fact: Travelling and Bike Riding <br>
+⚡ Fun fact: I am A Hacker..👨‍💻 <br>
 <br>
 <p><em>Software Development Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
