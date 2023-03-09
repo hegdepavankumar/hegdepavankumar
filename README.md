@@ -5,7 +5,7 @@
 
 
 
-I'm a Software Developer/ Data Engineer, !! <br>
+I'm a Software Engineer/ Data Engineer, !! <br>
 🌱 I’m currently learning everything 🤣 (Data Engineering) <br>
 👯 I’m looking to collaborate with other content creators <br>
 🥅 2023 Goals: Learn more about Cloud, Data Science <br>
