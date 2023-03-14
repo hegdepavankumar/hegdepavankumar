@@ -36,11 +36,11 @@
     Connect with me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://twitter.com/pavankumar-hegde" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/pavankumar-hegde" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="mailto:puhegde01@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:puhegde01@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
@@ -71,25 +71,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📱 Connect With  Me...<br>
-
-[![Linkedin](https://img.shields.io/badge/-pavankumar-hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/) [![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/puhegde01?hr_r=1)](https://hackerrank.com/puhegde01?hr_r=1)
-
- <br>
  <br>
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
