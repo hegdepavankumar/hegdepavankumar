@@ -42,14 +42,14 @@
     <a href="mailto:puhegde01@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:puhegde01@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://fb.com/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://instagram.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://instagram.com/iampavankumarhegde" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/iampavankumarhegde" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.youtube.com/c/utkarshpathrabe" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/utkarshpathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
