@@ -78,43 +78,18 @@ const Pavankumar Hegde = {
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=hegdepavankumar&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
-
-
-
-
-
-
-
-
-
-
-    
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hegdepavankumar&theme=hacker&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://img.shields.io/badge/-HTML-e24f26?logo=html5&logoColor=aff"> <img src="https://img.shields.io/badge/-CSS-e34i26?logo=css5&logoColor=bff"> <img src="https://img.shields.io/badge/-C++-e34f56?logo=c++5&logoColor=cff"> <img src="https://img.shields.io/badge/-SHELL-e74f26?logo=shell5&logoColor=fff"> <img src="https://img.shields.io/badge/-RUBY-e34f06?logo=ruby5&logoColor=fff"> <img src="https://img.shields.io/badge/-C-e34f55?logo=c5&logoColor=fff"> <img src="https://img.shields.io/badge/-JAVASCRIPT-e88f26?logo=javascript5&logoColor=fff">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&show_icons=true&theme=radical">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hegdepavankumar&theme=vue">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=hegdepavankumar&theme=minimal"> 
-<br>
 
 <h4 align="center">
   
