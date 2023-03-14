@@ -116,7 +116,7 @@ const Pavankumar Hegde = {
   
   
   <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats
+    Total Stats
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
