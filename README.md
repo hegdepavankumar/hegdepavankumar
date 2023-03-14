@@ -93,8 +93,6 @@ const Pavankumar Hegde = {
 };
 ```
 
-
-
 #
 
 <details open="">
@@ -131,8 +129,6 @@ const Pavankumar Hegde = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=gruvbox" alt="hegdepavankumar" />
 </p>
   
-  
-
 
 Are You Guys Agree?
 
@@ -162,8 +158,6 @@ Are You Guys Agree?
 ```
 
 </h4> 
-
-
 
   ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
