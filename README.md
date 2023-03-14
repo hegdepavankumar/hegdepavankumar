@@ -86,9 +86,9 @@ const Pavankumar Hegde = {
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=hegdepavankumar&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
+<What You Think?>
 
 
 <h4 align="center">
