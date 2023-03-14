@@ -132,22 +132,6 @@ const Pavankumar Hegde = {
 </p>
   
   
-  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/hegdepavankumar/hegdepavankumar/blob/output/github-contribution-grid-snake.svg" alt="Pavankumar Hegde stats snake" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="hegdepavankumar" />
-</p>
-  
-  
-  
-  
-  
-  
-
 
 
 Are You Guys Agree?
@@ -181,17 +165,15 @@ Are You Guys Agree?
 
 
 
-## Snake Eating My Contribution Graph
-![snake gif](https://github.com/hegdepavankumar/hegdepavankumar/blob/output/github-contribution-grid-snake.gif)
+  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
-<br>
-<br>
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/hegdepavankumar/hegdepavankumar/blob/output/github-contribution-grid-snake.svg" alt="Pavankumar Hegde stats snake" />
 </p>
 
-
-<br/>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="hegdepavankumar" />
+</p>
 
 
 
