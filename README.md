@@ -99,6 +99,33 @@ const Pavankumar Hegde = {
 </p>
 
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
+
+#
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@hegdepavankumar/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+
+<br>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C656%20hrs%204%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.3%20million%20lines%20of%20code-blue)
+
+
+
+
+
+
+
 Support Me <br>
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="hegdepavankumar"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
