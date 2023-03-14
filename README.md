@@ -35,8 +35,7 @@ const Pavankumar Hegde = {
             Web technologies : ["HTML","CSS","Js", "Bootstrap"],
             Cloud : [ "Azure", "GCP"],
             Scripting : ["Python", "Power Shell", "Bash"],
-            Big Data : ["Hadoop", "Spark", "Hive", "Spark SQL", "ETL Pipeline"],
-            Database : ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"]
+            Database : ["MySQL", "PostgreSQL", "MongoDB"]
             
         },
     
