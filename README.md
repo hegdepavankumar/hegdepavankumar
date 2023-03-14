@@ -9,10 +9,10 @@ I'm a Software Engineer !! <br>
 🌱 I’m currently learning everything 🤣  <br>
 👯 I’m looking to collaborate with other content creators <br>
 💬 Ask me about anything.
-🥅 2023 Goals: Learn more about Cloud, Data Science <br>
+🥅 2023 Goals: Learn more about Cloud, Cyber Security <br>
 ⚡ Fun fact: I am A Hacker..👨‍💻 <br>
 <br>
-<p><em>Software Development Engineer / Data Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <br>
 
@@ -28,7 +28,7 @@ I'm a Software Engineer !! <br>
 const Pavankumar Hegde = {
     pronouns: "He" | "Him",
     code: [C++, Java, Python],
-    askMeAbout: ["Software Development Engineer","Data Engineer"],
+    askMeAbout: ["Software Development Engineer"],
     technologies:{
       
             SCM : ["Github"],
