@@ -8,7 +8,7 @@
 I'm a Software Engineer !! <br>
 🌱 I’m currently learning everything 🤣  <br>
 👯 I’m looking to collaborate with other content creators <br>
-💬 Ask me about anything. <br>
+💬 Ask me anything about Coding...💻. <br>
 🥅 2023 Goals: Learn more about Cloud, Cyber Security <br>
 ⚡ Fun fact: I am A Hacker..👨‍💻 <br>
 <br>
