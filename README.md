@@ -39,7 +39,7 @@
 
 📱 Connect With  Me...<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pavankumar-hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/) [![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/puhegde01?hr_r=1)](https://hackerrank.com/puhegde01?hr_r=1)
+[![Linkedin](https://img.shields.io/badge/-pavankumar-hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/)](https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/) [![Gmail Badge](https://img.shields.io/badge/-puhegde01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puhegde01@gmail.com)](mailto:puhegde01@gmail.com) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/puhegde01?hr_r=1)](https://hackerrank.com/puhegde01?hr_r=1)
 
  <br>
  <br>
@@ -120,6 +120,33 @@ Are You Guys Agree?
 
 
 
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
+
+#
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@hegdepavankumar/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+
+<br>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C656%20hrs%204%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.3%20million%20lines%20of%20code-blue)
+
+
+
+
+
+
 ## Snake Eating My Contribution Graph
 ![snake gif](https://github.com/hegdepavankumar/hegdepavankumar/blob/output/github-contribution-grid-snake.gif)
 
@@ -129,8 +156,6 @@ Are You Guys Agree?
   <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
 
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br/>
 
