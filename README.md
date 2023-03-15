@@ -1,12 +1,7 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pavankumar Hegde!
-
-
-
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇i there, I am  &lt;Pavankumar_Hegde/&gt;!
+  𝐇ello, I am  &lt;Pavankumar_Hegde/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
