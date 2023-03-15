@@ -175,18 +175,9 @@ Are You Guys Agree?
   
   <br>
 <p  align="center">
+  ## Visitors Count 👀
   <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
-
-
-<td valign="top" width="50%">
-
-## Visitors Count 👀
-
-![VisitorCount](https://profile-counter.glitch.me/{hegdepavankumar}/count.svg)
-
-</td>
-
 
 
 <br>
