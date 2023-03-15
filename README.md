@@ -75,7 +75,7 @@
   
   <!-- Tech Stack -->  
   
-  <img align="right" height="250" src = "https://github.com/hegdepavankumar/hegdepavankumar/assets/MyOctocat.gif">
+  <img align="right" height="250" src = "https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/MyOctocat.gif">
  
 ## Technical Skills ✔
 
