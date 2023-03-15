@@ -49,10 +49,7 @@
     </a>
    </a>
     <a href="https://www.hackerrank.com/puhegde01?hr_r=1" target="blank" rel="noreferrer">
-        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/puhegde01?hr_r=1" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.hackerearth.com/@puhegde01" target="blank" rel="noreferrer">
-        <img align="center" src="https://static-fastly.hackerearth.com/newton/production/static/images/homepagev2/he_logo.svg" alt="https://www.hackerearth.com/@puhegde01" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/puhegde01?hr_r=1" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /> 
     </a>
     <a href="https://leetcode.com/puhegde01/" target="blank" rel="noreferrer">
         <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://leetcode.com/puhegde01/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
