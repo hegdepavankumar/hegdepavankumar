@@ -74,27 +74,41 @@
   
   
   <!-- Tech Stack -->  
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
+  
+  <img align="right" height="250" src = "https://github.com/hegdepavankumar/hegdepavankumar/assets/MyOctocat.gif">
+ 
+## Technical Skills ✔
 
-| **Category** | **Technologies** |
-| - | - |
-**Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/)      
-**Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
-**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) [![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF)](https://www.swift.org/)
-**Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&logo=circleci&logoColor=FFFFFF)](https://circleci.com/)
- **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/)
-  **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-See **[➡️ Full Tech Stack](https://github.com/hegdepavankumar
-/hegdepavankumar
-/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies
-
-----      
-
-  </p>
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
+![KeilUVision](https://img.shields.io/badge/-KeilUVision-05122A?style=flat&logo=keiluvision&logoColor=007ACC)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![Docklight](https://img.shields.io/badge/-Docklight-05122A?style=flat&logo=docklight)&nbsp;\
+![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
+![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=flat&logo=Embedded-System&logoColor=1572B6)&nbsp;
+![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
+ 
   
   
   
