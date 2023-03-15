@@ -172,11 +172,12 @@ Are You Guys Agree?
     <img src="./assets/sunrise.jpeg?sanitize=true" alt="hegdepavankumar" />
 </p>
   
-  
-  <br>
+ <p  align="center"> ## Visitors Count 👀 
+<br>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
+
 
 
 <br>
