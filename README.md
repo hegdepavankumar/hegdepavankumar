@@ -97,7 +97,6 @@ const Pavankumar Hegde = {
   
   
   <!-- Tech Stack -->  
-<details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
 
@@ -117,7 +116,7 @@ const Pavankumar Hegde = {
 ----      
 
   </p>
-</details>
+
   
   
   
