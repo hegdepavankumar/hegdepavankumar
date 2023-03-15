@@ -32,6 +32,8 @@
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
 </p>
 
+  <!-- Connect with me -->  
+
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Connect with me:
 </h3>
@@ -88,8 +90,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
-![KeilUVision](https://img.shields.io/badge/-KeilUVision-05122A?style=flat&logo=keiluvision&logoColor=007ACC)&nbsp;\
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -111,7 +112,7 @@
  
   
   
-  
+   <!-- 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 -->  
 
 #
 
@@ -185,7 +186,9 @@ Are You Guys Agree?
 <br>
 
 
-
+ <!-- Support Me --> 
+ 
+ 
 Support Me <br>
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="hegdepavankumar"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
