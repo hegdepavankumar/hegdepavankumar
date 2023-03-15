@@ -178,6 +178,17 @@ Are You Guys Agree?
   <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
 
+
+<td valign="top" width="50%">
+
+## Visitors Count 👀
+
+![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
+</td>
+
+
+
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <br>
