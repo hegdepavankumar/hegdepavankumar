@@ -111,13 +111,6 @@ const Pavankumar Hegde = {
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=hegdepavankumar&theme=react-dark&hide_border=true&area=true)
   
-  
-  
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&locale=en&theme=gruvbox" alt="hegdepavankumar" />
-</p>
-
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=gruvbox" alt="hegdepavankumar" />
 </p>
