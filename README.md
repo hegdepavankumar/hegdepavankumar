@@ -113,13 +113,6 @@ const Pavankumar Hegde = {
   
   
   
-  <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Total Stats
-</h3>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hegdepavankumar&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="hegdepavankumar" />
-</p>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&locale=en&theme=gruvbox" alt="hegdepavankumar" />
