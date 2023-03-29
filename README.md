@@ -11,7 +11,7 @@
 
   <!-- Connect with me -->  
 
-<h3 align="left" style='margin: 12px 4px 8px; font-size: 4px;'>
+<h3 align="left" >
     Connect with me:
   <br>
 <br/>
