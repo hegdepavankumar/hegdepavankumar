@@ -1,9 +1,11 @@
 
+
   <!-- Connect with me -->  
 
-<h5 align="left" >
-  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋, 𝙄 𝙖𝙢 𝙋𝙖𝙫𝙖𝙣𝙠𝙪𝙢𝙖𝙧 𝙃𝙚𝙜𝙙𝙚! 😁
-  <br>
+<h4 align="left" >
+ 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈 𝐚𝐦 𝐏𝐚𝐯𝐚𝐧𝐤𝐮𝐦𝐚𝐫 𝐇𝐞𝐠𝐝𝐞! 😁 
+ </h2>
+  <h5>
 <br/>
 <a href="https://www.instagram.com/iampavankumarhegde/">
   <img align="left" alt="Pavankumar Hegde's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -21,16 +23,12 @@
    ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
 <br />
+ 
+<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
   
 
-  
-ʜɪ, ɪ'ᴍ ᴘᴀᴠᴀɴᴋᴜᴍᴀʀ ʜᴇɢᴅᴇ, ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ sᴇʟғ-ᴛᴀᴜɢʜᴛ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀ ғʀᴇᴇʟᴀɴᴄᴇ sᴏғᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ. ᴍʏ ᴘᴀssɪᴏɴ ғᴏʀ sᴏғᴛᴡᴀʀᴇ ʟɪᴇs ɪɴ ᴅʀᴇᴀᴍɪɴɢ ᴜᴘ ɪᴅᴇᴀs ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴛʜᴇᴍ ᴄᴏᴍᴇ ᴛʀᴜᴇ ᴡɪᴛʜ ᴇʟᴇɢᴀɴᴛ ɪɴᴛᴇʀғᴀᴄᴇs. ɪ ᴛᴀᴋᴇ ɢʀᴇᴀᴛ ᴄᴀʀᴇ ɪɴ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ, ᴀɴᴅ ᴄᴏᴅᴇ ǫᴜᴀʟɪᴛʏ ᴏғ ᴛʜᴇ ᴛʜɪɴɢs ɪ ʙᴜɪʟᴅ.
-
-ɪ ᴀᴍ ᴀʟsᴏ ᴀɴ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ ᴀɴᴅ ᴍᴀɪɴᴛᴀɪɴᴇʀ. ɪ ʟᴇᴀʀɴᴇᴅ ᴀ ʟᴏᴛ ғʀᴏᴍ ᴛʜᴇ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴀɴᴅ ɪ ʟᴏᴠᴇ ʜᴏᴡ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ sʜᴀʀɪɴɢ ʜᴀᴘᴘᴇɴᴇᴅ ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ.
-  
- 
- 
- 
   <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
   
 - 💼 any freelance work? do reach, [email](mailto:puhegde01@gmail.com) :)
