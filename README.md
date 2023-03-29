@@ -2,7 +2,7 @@
 
   <!-- Connect with me -->  
 
-<h4 align="left" >
+<h2 align="left" >
  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈 𝐚𝐦 𝐏𝐚𝐯𝐚𝐧𝐤𝐮𝐦𝐚𝐫 𝐇𝐞𝐠𝐝𝐞! 😁 
  </h2>
   <h4>
