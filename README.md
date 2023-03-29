@@ -38,6 +38,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 Pronouns: **He/Him/His.**
 - ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 The Journey 𝙸𝚜 : *It  𝙴𝚗𝚍𝚜.***
   
+  <br>
   
   <!-- Tech Stack -->  
   
