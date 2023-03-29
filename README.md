@@ -25,9 +25,9 @@
   <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
+   ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
-<br>
+<br />
   
 
   
@@ -44,8 +44,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
 - ❤️ Love contributing in Open Source ,Hackathons, etc..
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 Pronouns: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+- 😄 Pronouns: **He/Him/His.**
+- ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 The Journey 𝙸𝚜 : *It  𝙴𝚗𝚍𝚜.***
   
   
   <!-- Tech Stack -->  
