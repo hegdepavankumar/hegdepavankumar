@@ -1,15 +1,8 @@
 
-### 
-<h2 align="center">
-  <img src="GIF/Hi.gif" width="24px">
-  𝐇ello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> I am  &lt;Pavankumar_Hegde/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h2>
-
   <!-- Connect with me -->  
 
-<h3 align="left" >
-    Connect with me:
+<h5 align="left" >
+  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋, 𝙄 𝙖𝙢 𝙋𝙖𝙫𝙖𝙣𝙠𝙪𝙢𝙖𝙧 𝙃𝙚𝙜𝙙𝙚! 😁
   <br>
 <br/>
 <a href="https://www.instagram.com/iampavankumarhegde/">
@@ -31,9 +24,9 @@
   
 
   
-hi, i'm Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+ʜɪ, ɪ'ᴍ ᴘᴀᴠᴀɴᴋᴜᴍᴀʀ ʜᴇɢᴅᴇ, ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ sᴇʟғ-ᴛᴀᴜɢʜᴛ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀ ғʀᴇᴇʟᴀɴᴄᴇ sᴏғᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ. ᴍʏ ᴘᴀssɪᴏɴ ғᴏʀ sᴏғᴛᴡᴀʀᴇ ʟɪᴇs ɪɴ ᴅʀᴇᴀᴍɪɴɢ ᴜᴘ ɪᴅᴇᴀs ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴛʜᴇᴍ ᴄᴏᴍᴇ ᴛʀᴜᴇ ᴡɪᴛʜ ᴇʟᴇɢᴀɴᴛ ɪɴᴛᴇʀғᴀᴄᴇs. ɪ ᴛᴀᴋᴇ ɢʀᴇᴀᴛ ᴄᴀʀᴇ ɪɴ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ, ᴀɴᴅ ᴄᴏᴅᴇ ǫᴜᴀʟɪᴛʏ ᴏғ ᴛʜᴇ ᴛʜɪɴɢs ɪ ʙᴜɪʟᴅ.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+ɪ ᴀᴍ ᴀʟsᴏ ᴀɴ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ ᴀɴᴅ ᴍᴀɪɴᴛᴀɪɴᴇʀ. ɪ ʟᴇᴀʀɴᴇᴅ ᴀ ʟᴏᴛ ғʀᴏᴍ ᴛʜᴇ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴀɴᴅ ɪ ʟᴏᴠᴇ ʜᴏᴡ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ sʜᴀʀɪɴɢ ʜᴀᴘᴘᴇɴᴇᴅ ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ.
   
  
  
