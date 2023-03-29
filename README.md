@@ -38,10 +38,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 Pronouns: **He/Him/His.**
 - ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 The Journey 𝙸𝚜 : *It  𝙴𝚗𝚍𝚜.***
   
-  <br>
+
   
   <!-- Tech Stack -->  
-  
   
  
 ## Technical Skills ✔
@@ -71,10 +70,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
   
   
-  <br>
   
-  
-  📊 **This Week I Spent my Time on:**
+   ## 📊 This Week I Spent my Time on:✔
 <!--START_SECTION:waka-->
 
 ```text
@@ -87,28 +84,26 @@ CI/CD        2 hrs           ░░░░░░░░░░░░░░░░░
 ```
  
   
-  
    <!-- 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 -->  
 
-#
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+  ## 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 ✔
+  
+  ![Pavankumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&theme=highcontrast)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&layout=compact)](https://github.com/hegdepavankumar/github-readme-stats)
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-
-<br/>
+  
+  
+  ## 𝙶𝚒𝚝𝚑𝚞𝚋 Graph ✔         
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=hegdepavankumar&theme=react-dark&hide_border=true&area=true)
   
+  ## 𝙶𝚒𝚝𝚑𝚞𝚋 Streak ✔ 
+  
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=gruvbox" alt="hegdepavankumar" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=highcontrast" alt="hegdepavankumar" />
 </p>
+  
+
   
 
 Do You know---🤖
