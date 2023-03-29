@@ -11,7 +11,7 @@
 
   <!-- Connect with me -->  
 
-<h3 align="left" style='margin: 32px 4px 8px; font-size: 24px;'>
+<h3 align="left" style='margin: 12px 4px 8px; font-size: 4px;'>
     Connect with me:
   <br>
 <br/>
@@ -31,12 +31,11 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
 <br />
-
-
-
-hi, i'm Pavankumar Hegde, a passionate self-taught Software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+  
+hi, i'm Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 
 
   <img align="right" alt="GIF" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -152,13 +151,6 @@ Do You know---🤖
 
 
 </p>
- 
- <p  align="center"> ## Visitors Count 👀 
-<br>
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
-</p>
-
 
 
 <br>
