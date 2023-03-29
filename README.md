@@ -1,69 +1,58 @@
 
+<br/>
+
+
+### 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇ello, I am  &lt;Pavankumar_Hegde/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
+  <!-- Connect with me -->  
+
+<h3 align="left" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Connect with me:
+  <br>
 <br/>
-<br/>
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
-
-- I'm a Software Engineer from INDIA 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Devops 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 and Data Engineering.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 🌍 I'm mostly active on HackerRank/LeetCode
-- ❤️ Love contributing in Open Source ,Hackathons, etc..
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Devops, Automation 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 / Data Science.**
-- 😄 Pronouns: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
-
-
-
-
-
-<br/>
-<br/>
-
-
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/iampavankumarhegde/">
+  <img align="left" alt="Pavankumar Hegde's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://leetcode.com/puhegde01/">
+  <img align="left" alt="Pavankumar Hegde's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.hackerrank.com/puhegde01">
+  <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/">
+  <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
- <p  align="center"> ## Visitors Count 👀 
-<br>
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
-</p>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
 <br />
+
+
 
 hi, i'm Pavankumar Hegde, a passionate self-taught Software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:puhegde01@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 🌍 I'm mostly active on HackerRank/LeetCode/GitHub
+- ❤️ Love contributing in Open Source ,Hackathons, etc..
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Devops, Automation 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 .**
+- 😄 Pronouns: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
   
   
   <!-- Tech Stack -->  
   
-  <img align="right" height="250" src = "https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/MyOctocat.gif">
+  
  
 ## Technical Skills ✔
 
