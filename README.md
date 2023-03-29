@@ -1,13 +1,10 @@
 
-<br/>
-
-
 ### 
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇ello, I am  &lt;Pavankumar_Hegde/&gt;!
+<h2 align="center">
+  <img src="GIF/Hi.gif" width="24px">
+  𝐇ello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> I am  &lt;Pavankumar_Hegde/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
-</h1>
+</h2>
 
   <!-- Connect with me -->  
 
@@ -30,22 +27,23 @@
   
   ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
-<br />
+<br>
+  
+
   
 hi, i'm Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-
+  
+ 
+ 
  
   <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
   
 - 💼 any freelance work? do reach, [email](mailto:puhegde01@gmail.com) :)
-- 🌍 I'm mostly active on HackerRank/LeetCode/GitHub
+- 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
 - ❤️ Love contributing in Open Source ,Hackathons, etc..
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Devops, Automation 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 .**
 - 😄 Pronouns: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
   
