@@ -5,7 +5,7 @@
 <h4 align="left" >
  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈 𝐚𝐦 𝐏𝐚𝐯𝐚𝐧𝐤𝐮𝐦𝐚𝐫 𝐇𝐞𝐠𝐝𝐞! 😁 
  </h2>
-  <h5>
+  <h4>
 <br/>
 <a href="https://www.instagram.com/iampavankumarhegde/">
   <img align="left" alt="Pavankumar Hegde's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
