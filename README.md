@@ -20,7 +20,7 @@
   <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
-   ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
+   ![](https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar)
 
 <br />
  
