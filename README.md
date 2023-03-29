@@ -28,42 +28,37 @@
 <br/>
 
 
-<p align='center' style='font-size: 16px;'>
-    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
+### hey there 
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+ <p  align="center"> ## Visitors Count 👀 
+<br>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hegdepavankumar" alt="visitor badge"/>
 </p>
 
-  <!-- Connect with me -->  
+<br />
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Connect with me:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="mailto:puhegde01@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:puhegde01@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  </a>
-  <a href="https://instagram.com/iampavankumarhegde" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/iampavankumarhegde" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-   </a>
-    <a href="https://www.hackerrank.com/puhegde01?hr_r=1" target="blank" rel="noreferrer">
-        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/puhegde01?hr_r=1" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /> 
-    </a>
-    <a href="https://leetcode.com/puhegde01/" target="blank" rel="noreferrer">
-        <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://leetcode.com/puhegde01/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-</p>
+hi, i'm Pavankumar Hegde, a passionate self-taught Software developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-
-
-
- <br>
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about My Skills...  
+  <img align="right" alt="GIF" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:puhegde01@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
   
   
   <!-- Tech Stack -->  
@@ -95,6 +90,21 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
+  
+  
+  
+  
+  📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+Python       10 hrs          ███████████████████████▒░   93.91 %
+Bash         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Debigging    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CI/CD        2 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
  
   
   
@@ -153,11 +163,7 @@ Do You know---🤖
 
 
 </p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="hegdepavankumar" />
-</p>
-  
+ 
  <p  align="center"> ## Visitors Count 👀 
 <br>
 <p  align="center">
@@ -174,11 +180,13 @@ Do You know---🤖
  <!-- Support Me --> 
  
  
-Support Me 🙏 <br>
+<!--END_SECTION:waka-->
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="hegdepavankumar"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<img src="https://app.codiga.io/hub/user/github/hegdepavankumar/assistant/badges/signup">
+
 
 
