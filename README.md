@@ -71,9 +71,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
   
   
+  <br>
   
   
-  📊 **this week i spent my time on:**
+  📊 **This Week I Spent my Time on:**
 <!--START_SECTION:waka-->
 
 ```text
