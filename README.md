@@ -16,7 +16,7 @@
 <a href="https://www.hackerrank.com/puhegde01">
   <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
 </a>
-<a href="https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/">
+<a href="https://www.linkedin.com/in/pavankumar-hegde-1007b8246/">
   <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
