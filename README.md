@@ -87,8 +87,7 @@ CI/CD        2 hrs           ░░░░░░░░░░░░░░░░░
   ## 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 ✔
   
 [![Pavankumar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/hegdepavankumar/github-readme-stats#gh-dark-mode-only)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&layout=compact)](https://github.com/hegdepavankumar/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&layout=compact)](https://github.com/hegdepavankumar/github-readme-stats)
   
   
   ## 𝙶𝚒𝚝𝚑𝚞𝚋 Graph ✔         
