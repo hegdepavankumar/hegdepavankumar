@@ -12,10 +12,10 @@
 <a href="https://leetcode.com/puhegde01/">
   <img align="left" alt="Pavankumar Hegde's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" />
 </a>
-<a href="https://www.hackerrank.com/puhegde01">
+<a href="https://www.hackerrank.com/hegdepavankumar">
   <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
 </a>
-<a href="https://www.linkedin.com/in/pavankumar-hegde-1007b8246/">
+<a href="https://www.linkedin.com/in/hegdepavankumar/">
   <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
