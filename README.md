@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/iampavankumarhegde/">
   <img align="left" alt="Pavankumar Hegde's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://leetcode.com/puhegde01/">
+<a href="https://leetcode.com/hegdepavankumar/">
   <img align="left" alt="Pavankumar Hegde's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" />
 </a>
 <a href="https://www.hackerrank.com/hegdepavankumar">
