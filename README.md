@@ -1,6 +1,5 @@
 
   <!-- Connect with me -->  
-<meta name="google-site-verification" content="vgYzFvTPoeQU4TOBhRPjL1STfPjNpRB3Ig7tqAZaTkc" />
 <h2 align="left" >
  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈 𝐚𝐦 𝐏𝐚𝐯𝐚𝐧𝐤𝐮𝐦𝐚𝐫 𝐇𝐞𝐠𝐝𝐞! 😁 
  </h2>
