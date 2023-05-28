@@ -91,7 +91,7 @@ CI/CD              2 hrs           ░░░░░░░░░░░░░░░
   
   ## 𝙶𝚒𝚝𝚑𝚞𝚋 Graph ✔         
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=hegdepavankumar&theme=react-dark&hide_border=true&area=true)
+[![Pavankumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hegdepavankumar&theme=github-compact)](https://github.com/hegdepavankumar/github-readme-activity-graph)
   
   ## 𝙶𝚒𝚝𝚑𝚞𝚋 Streak ✔ 
   
