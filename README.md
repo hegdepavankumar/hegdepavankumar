@@ -3,6 +3,7 @@
 <h2 align="left" >
  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈 𝐚𝐦 𝐏𝐚𝐯𝐚𝐧𝐤𝐮𝐦𝐚𝐫 𝐇𝐞𝐠𝐝𝐞! 😁 
  </h2>
+ <h4>Connet With Me 🤙👇🙌</h4>
   <h4>
 <br/>
 <a href="https://www.instagram.com/iampavankumarhegde/">
@@ -22,7 +23,7 @@
 
 <br />
  
-<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a Network/Cyber/Automation/Cloud   Engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
   
