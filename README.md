@@ -15,14 +15,14 @@
   <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
 </a>
 <a href="https://www.linkedin.com/in/hegdepavankumar/">
-  <img align="left" alt="Pavankumar Hegde's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pavankumar Hegde's LinkedIn" width="22px" src="![assets/1384014.png)" />
 </a>
   
   ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue)
 
 <br />
  
-<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
   
@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:puhegde01@gmail.com) :)
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
-- ❤️ Love contributing in Open Source ,Hackathons, etc..
+- ❤️ Love contributing to Open Source, Hackathons, etc...
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 Pronouns: **He/Him/His.**
 - ⚡️ Fun fact: **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 The Journey 𝙸𝚜 : *It  𝙴𝚗𝚍𝚜.***
@@ -72,11 +72,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python             7 hrs          ███████████████████████▒░     93.91 %
+Python             7 hrs           ███████████████████████▒░     93.91 %
 Bash               1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░    04.68 %
-Debigging          40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Cloud Security     30 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Linux              25 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Debigging          40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Cloud Security     30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Linux              25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 CI/CD              2 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░    00.05 %
 ```
  
