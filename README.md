@@ -15,7 +15,7 @@
   <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
 </a>
 <a href="https://www.linkedin.com/in/hegdepavankumar/">
-  <img align="left" alt="Pavankumar Hegde's LinkedIn" width="22px" src="![assets/1384014.png)" />
+  <img align="left" alt="Pavankumar Hegde's LinkedIn" width="22px" src="![[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)" />
 </a>
   
   ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue)
