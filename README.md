@@ -38,9 +38,7 @@
   ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue)
 
 <br />
-<p style="font-family: Arial"> Hi, my name is Pavankumar Hegde, a passionate self-taught software developer and a Network/Cyber/Automation/Cloud   Engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p style="font-family: Arial"> Hi,I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
   <hr>
  <!--     ## 📝 Blogs   -->
