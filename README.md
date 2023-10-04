@@ -37,7 +37,8 @@
   
   ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue) 
   
-   <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/hegdepavankumar.png" alt="TryHackMe">](https://tryhackme.com/p/hegdepavankumar)
+   <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/hegdepavankumar.png" alt="TryHackMe">](https://tryhackme.com/p/hegdepavankumar/)
+   
 
 <br />
 <p style="font-family: Arial"> Hi,I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
