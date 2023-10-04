@@ -35,7 +35,9 @@
   <img align="left" alt="Pavankumar Hegde's LinkedIn" width="22px" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/photo-1611944212129-29977ae1398c.jpg" />
 </a>
   
-  ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue)
+  ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue) 
+  
+   <br> <img src="https://tryhackme-badges.s3.amazonaws.com/hegdepavankumar.png" alt="TryHackMe">
 
 <br />
 <p style="font-family: Arial"> Hi,I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
@@ -62,6 +64,7 @@
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+    
 
 
 <div align="center">
