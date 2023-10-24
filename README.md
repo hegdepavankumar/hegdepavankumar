@@ -16,32 +16,12 @@
 
 
 
-  <!-- Connect with me -->  
-<h2 align="left" >
- </h2>
- <h4>Connet With Me 🤙👇🙌</h4>
-  <h4>
-<br/>
-<a href="https://www.instagram.com/iampavankumarhegde/">
-  <img align="left" alt="Pavankumar Hegde's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://leetcode.com/hegdepavankumar/">
-  <img align="left" alt="Pavankumar Hegde's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" />
-</a>
-<a href="https://www.hackerrank.com/hegdepavankumar">
-  <img align="left" alt="Pavankumar Hegde | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />
-</a>
-<a href="https://www.linkedin.com/in/hegdepavankumar/">
-  <img align="left" alt="Pavankumar Hegde's LinkedIn" width="22px" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/photo-1611944212129-29977ae1398c.jpg" />
-</a>
   
   ![](https://komarev.com/ghpvc/?username=hegdepavankumar&color=blue) 
   
-   <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/hegdepavankumar.png" alt="TryHackMe">](https://tryhackme.com/p/hegdepavankumar/)
-   
-
+  
 <br />
-<p style="font-family: Arial"> Hi,I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p style="font-family: Arial"> Hi, I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
   <hr>
  <!--     ## 📝 Blogs   -->
@@ -49,7 +29,7 @@
 
  <img align="right" height="250" width="375" alt="" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 - 😄 Pronouns: **He/Him/His.**
 - 🚀 &nbsp; I’m currently learning Cyber Security.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hegdepavankumar).
