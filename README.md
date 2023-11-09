@@ -60,20 +60,6 @@
 
  <hr>
 
-
-<!--  Things I use to get stuff done   -->
-
-### ⚙️Things I use to get stuff done
-- OS: Mac Ventura 13.5.1 & Ubuntu & Windows 11
-- Laptop: MacBook Pro 16
-- Browser: Safari & Brave & Chrome
-- Terminal: ZSH: Oh My Zsh (PowerLevel10k) & iTerm
-- Code Editor: VSCode - The best editor out there & PyCharm
-- To Stay Updated: Medium & GitHub & Linkedin
- 
- <hr>
- 
-
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/imhegde/github-readme-stats -->
