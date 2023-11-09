@@ -22,8 +22,7 @@
   <hr>
  <!--     ## 📝 Blogs   -->
 
-
- <img align="right" height="250" width="375" alt="" src="https://github.com/imhegde/imhegde/blob/main/assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/imhegde/imhegde/blob/main/assets/sec_engineer.gif" /> 
 
 ### Talking about Personal Stuff:
 - 😄 Pronouns: **He/Him/His.**
