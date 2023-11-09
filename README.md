@@ -24,16 +24,16 @@
  <!--     ## 📝 Blogs   -->
 
 
- <img align="right" height="250" width="375" alt="" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/coder.gif" />
+ <img align="right" height="250" width="375" alt="" src="https://github.com/imhegde/imhegde/blob/main/assets/coder.gif" />
 
 ### Talking about Personal Stuff:
 - 😄 Pronouns: **He/Him/His.**
 - 🚀 &nbsp; I’m currently learning Cyber Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hegdepavankumar).
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imhegde).
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/imhegde/imhegde/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
-- 📝 &nbsp; Checkout my [Resume](https://github.com/hegdepavankumar/).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/imhegde/).
 
  <hr>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 <p>📝Write something nice in my guest book:✍</p>
-<a href="https://github.com/hegdepavankumar/hegdepavankumar/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/imhegde/imhegde/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 <hr>
    
@@ -77,27 +77,27 @@
 
  <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/hegdepavankumar/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/imhegde/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/hegdepavankumar/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hegdepavankumar's streak" src="https://streak-stats.demolab.com/?user=hegdepavankumar&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/imhegde/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="imhegde's streak" src="https://streak-stats.demolab.com/?user=imhegde&theme=monokai-metallian&hide_border=true"/>
     </a>
   
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/hegdepavankumar/github-readme-stats -->
+  <!-- https://github.com/imhegde/github-readme-stats -->
 
-  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="hegdepavankumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hegdepavankumar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="hegdepavankumar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hegdepavankumar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/imhegde/github-readme-stats"><img alt="imhegde's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imhegde&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/imhegde/github-readme-stats"><img alt="imhegde's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=imhegde&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
  
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/hegdepavankumar/github-readme-activity-graph"><img alt="hegdepavankumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hegdepavankumar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <a href="https://github.com/imhegde/github-readme-activity-graph"><img alt="imhegde's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=imhegde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <hr>
@@ -147,7 +147,7 @@
 
 if you like what i do, maybe consider buying me a coffee.. 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
