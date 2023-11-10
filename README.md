@@ -55,6 +55,7 @@
 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding the Layers: A Journey Through the OSI Model!](https://dev.to/hegdepavankumar/decoding-the-layers-a-journey-through-the-osi-model-5ap)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
