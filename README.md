@@ -50,8 +50,8 @@
  
 </p>
 
-<hr>
 
+📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
