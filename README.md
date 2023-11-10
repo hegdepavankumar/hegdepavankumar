@@ -22,16 +22,16 @@
   <hr>
  <!--     ## 📝 Blogs   -->
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/imhegde/imhegde/blob/main/assets/sec_engineer.gif" /> 
+<img align="right" height="250" width="375" alt="" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/sec_engineer.gif" /> 
 
 ### Talking about Personal Stuff:
 - 😄 Pronouns: **He/Him/His.**
 - 🚀 &nbsp; I’m currently learning Cyber Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imhegde).
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/imhegde/imhegde/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hegdepavankumar).
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
-- 📝 &nbsp; Checkout my [Resume](https://github.com/imhegde/).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/hegdepavankumar/).
 
  <hr>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 <p>📝Write something nice in my guest book:✍</p>
-<a href="https://github.com/imhegde/imhegde/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/hegdepavankumar/hegdepavankumar/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 <hr>
    
@@ -60,9 +60,9 @@
  <hr>
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/imhegde/github-readme-stats -->
+  <!-- https://github.com/hegdepavankumar/github-readme-stats -->
 
-  <a href="https://github.com/imhegde/github-readme-stats"><img alt="imhegde's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imhegde&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="hegdepavankumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hegdepavankumar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <hr>
 
@@ -111,7 +111,7 @@
 
 if you like what i do, maybe consider buying me a coffee.. 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
