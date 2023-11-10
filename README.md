@@ -20,7 +20,6 @@
 <p style="font-family: Arial"> Hi, I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
   <hr>
- <!--     ## 📝 Blogs   -->
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/sec_engineer.gif" /> 
 
@@ -48,10 +47,15 @@
 <a href="https://github.com/hegdepavankumar/hegdepavankumar/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 <hr>
-   
-
  
 </p>
+
+<hr>
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Languages and Tools:</h3>
  
