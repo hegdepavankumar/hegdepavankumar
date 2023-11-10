@@ -17,7 +17,7 @@
   
   
 <br />
-<p style="font-family: Arial"> Hi, I am a Network Security Engineer and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p style="font-family: Arial"> Passionate Network Security Engineer and dedicated open-source advocate. My journey is fueled by the collaborative spirit of the open-source community. Inspired by the seamless dance of collaboration and knowledge sharing, I thrive on the ever-evolving rhythm of the tech world.</p>
 
   <hr>
 
