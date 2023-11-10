@@ -1,3 +1,4 @@
+
 name: Latest blog post workflow
 on:
   schedule: 
