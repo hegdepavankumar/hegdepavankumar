@@ -55,6 +55,7 @@
 ###  📗 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Secrets: A Guide to TCP 3-Way Handshake](https://dev.to/hegdepavankumar/unlocking-the-secrets-a-guide-to-tcp-3-way-handshake-nhl)
 - [Decoding the Layers: A Journey Through the OSI Model!](https://dev.to/hegdepavankumar/decoding-the-layers-a-journey-through-the-osi-model-5ap)
 <!-- BLOG-POST-LIST:END -->
 
