@@ -55,6 +55,7 @@
 ###  📗 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS Explained: Navigating the Web&#39;s Address Book!](https://dev.to/hegdepavankumar/dns-explained-navigating-the-webs-address-book-2o8p)
 - [SSL/TLS Handshake Explained: A Simple Guide for Secure Connections!](https://dev.to/hegdepavankumar/ssltls-handshake-explained-a-simple-guide-for-secure-connections-2mhh)
 - [Securing Connections: A Comprehensive Guide to IPSec and VPN Mastery](https://dev.to/hegdepavankumar/securing-connections-a-comprehensive-guide-to-ipsec-and-vpn-mastery-4eka)
 - [Unlocking the Secrets: A Guide to TCP 3-Way Handshake](https://dev.to/hegdepavankumar/unlocking-the-secrets-a-guide-to-tcp-3-way-handshake-nhl)
