@@ -73,15 +73,16 @@
  
 ### 📊 My Github Stats
 <br>
+
 <p align="center">
     <a href="https://https://github.com/hegdepavankumar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pavankumar Hegde's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pavankumar Hegde streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hegdepavankumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
    <br/>
-<a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde Github Stats" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
