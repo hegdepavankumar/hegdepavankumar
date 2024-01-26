@@ -80,8 +80,8 @@
 </p>
  
    <br/>
-<a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hegdepavankumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hegdepavankumar/github-readme-stats"><img alt="Pavankumar Hegde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
