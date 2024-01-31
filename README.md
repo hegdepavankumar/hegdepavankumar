@@ -31,7 +31,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
-- 🤝 &nbsp; Checkout "Resource Hub" Community, [click here](https://t.me/resourcehub1).
+- 🤝 &nbsp; Checkout "NetSafe VirtualHub" Community, [click here](https://t.me/resourcehub1).
 
 
  <hr>
