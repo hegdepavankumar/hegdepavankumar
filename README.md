@@ -28,7 +28,7 @@
 - 😄 Pronouns: **He/Him/His.**
 - 🚀 &nbsp; I’m currently learning Cyber Security.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hegdepavankumar).
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/resourcehub1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
 - 🤝 &nbsp; Checkout "NetSafe VirtualHub" Community, [click here](https://t.me/resourcehub1).
