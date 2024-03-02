@@ -18,39 +18,9 @@
   
   
 <br />
-<p style="font-family: Arial"> Passionate Network Security Engineer and dedicated open-source advocate. My journey is fueled by the collaborative spirit of the open-source community. Inspired by the seamless dance of collaboration and knowledge sharing, I thrive on the ever-evolving rhythm of the tech world.</p>
+<p style="font-family: Arial"> I'm Pavankumar Hegde, a passionate Network Security Engineer with extensive expertise in networking, cloud security, coding, and a proud CCIE Security trained professional. My journey in the realm of cybersecurity has been fueled by a genuine interest in helping people and a commitment to contributing to open-source initiatives.</p>
 
   <hr>
-
-<img align="right" height="250" width="375" alt="" src="https://github.com/hegdepavankumar/hegdepavankumar/blob/main/assets/sec_engineer.gif" /> 
-
-### Talking about Personal Stuff:
-- 😄 Pronouns: **He/Him/His.**
-- 🚀 &nbsp; I’m currently learning Cyber Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hegdepavankumar).
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/resourcehub1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 Answer.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 👯 For collaboration do reach, [email](mailto:puhegde01@gmail.com) :)
-- 🤝 &nbsp; Checkout "NetSafe VirtualHub" Community, [click here](https://t.me/resourcehub1).
-
-
- <hr>
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-    
-
-
-<div align="center">
-<p>📝Write something nice in my guest book:✍</p>
-<a href="https://github.com/hegdepavankumar/hegdepavankumar/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
-<hr>
- 
-</p>
 
 
 ###  📗 Latest Blog Posts
@@ -91,39 +61,6 @@
 
 <hr>
 
-<details> <summary> 
-
-  ### 🤖 Do You Know!!</summary>
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4> 
-
-</details>
-
-<br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <br>
 
@@ -134,7 +71,7 @@
  
 <!--END_SECTION -->
 
-if you like what I do, maybe consider buying me a coffee.. 🤩👉☕👈
+I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in [Your Project Name] and believe in its mission, I would be grateful for your support.
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
