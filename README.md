@@ -71,7 +71,7 @@
  
 <!--END_SECTION -->
 
-I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in [Your Project Name] and believe in its mission, I would be grateful for your support.
+I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in its mission, I would be grateful for your support.
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
