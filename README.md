@@ -20,6 +20,15 @@
 <br />
 <p style="font-family: Arial"> I'm Pavankumar Hegde, a passionate Network Security Engineer with extensive expertise in networking, cloud security, coding, and a proud CCIE Security trained professional. My journey in the realm of cybersecurity has been fueled by a genuine interest in helping people and a commitment to contributing to open-source initiatives.</p>
 
+<br>
+
+ <!-- Support Me --> 
+
+I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in its mission, I would be grateful for your support.
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
   <hr>
 
 
@@ -65,16 +74,7 @@
 <br>
 
 
- <!-- Support Me --> 
-
- 
- 
 <!--END_SECTION -->
-
-I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in its mission, I would be grateful for your support.
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 <div align="center">
 <p>Have a good day!</p>
