@@ -35,10 +35,10 @@ I have recently set up a Buy Me a Coffee page to help fund the ongoing developme
 
 <!-- BLOG-POST-LIST:START -->
 - [DNS Explained: Navigating the Web&#39;s Address Book!](https://dev.to/hegdepavankumar/dns-explained-navigating-the-webs-address-book-2o8p)
-- [SSL/TLS Handshake Explained: A Simple Guide for Secure Connections!](https://dev.to/hegdepavankumar/ssltls-handshake-explained-a-simple-guide-for-secure-connections-2mhh)
-- [Securing Connections: A Comprehensive Guide to IPSec and VPN Mastery](https://dev.to/hegdepavankumar/securing-connections-a-comprehensive-guide-to-ipsec-and-vpn-mastery-4eka)
-- [Unlocking the Secrets: A Guide to TCP 3-Way Handshake](https://dev.to/hegdepavankumar/unlocking-the-secrets-a-guide-to-tcp-3-way-handshake-nhl)
-- [Decoding the Layers: A Journey Through the OSI Model!](https://dev.to/hegdepavankumar/decoding-the-layers-a-journey-through-the-osi-model-5ap)
+- [What is SSL/TLS Handshake: A Simple Guide for Secure Connections!](https://dev.to/hegdepavankumar/ssltls-handshake-explained-a-simple-guide-for-secure-connections-2mhh)
+- [What is IPsec? | How IPsec VPNs Work Explained!!](https://dev.to/hegdepavankumar/securing-connections-a-comprehensive-guide-to-ipsec-and-vpn-mastery-4eka)
+- [What is TCP 3 Way Handshake?](https://dev.to/hegdepavankumar/unlocking-the-secrets-a-guide-to-tcp-3-way-handshake-nhl)
+- [What is OSI Model? | All 7 Layers Explained!!](https://dev.to/hegdepavankumar/decoding-the-layers-a-journey-through-the-osi-model-5ap)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
