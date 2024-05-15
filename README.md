@@ -28,6 +28,13 @@ I have recently set up a Buy Me a Coffee page to help fund the ongoing developme
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+## Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
+
+
+
+
+
+
   <hr>
 
 
