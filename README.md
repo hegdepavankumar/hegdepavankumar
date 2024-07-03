@@ -18,7 +18,7 @@
   
   
 <br />
-<p style="font-family: Arial"> I'm Pavankumar Hegde, a passionate Network Security Engineer with extensive expertise in networking, cloud security, and a proud CCIE security-trained professional. My journey in the realm of cybersecurity has been fueled by a genuine interest in helping people and a commitment to contributing to open-source initiatives.</p>
+<p style="font-family: Arial"> I'm Pavankumar Hegde, a passionate Cloud Engineer with extensive expertise in networking, cloud security, and a proud CCIE security-trained professional. My journey in the realm of cybersecurity has been fueled by a genuine interest in helping people and a commitment to contributing to open-source initiatives.</p>
 
 <br>
 
