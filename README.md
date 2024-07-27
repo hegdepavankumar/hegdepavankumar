@@ -29,6 +29,11 @@ I have recently set up a Buy Me a Coffee page to help fund the ongoing developme
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+
+![bmc_qr (1)](https://github.com/user-attachments/assets/08d9539e-ba69-40b2-b4fc-50777fde9271)
+
+---
+
 ## Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
 
 
