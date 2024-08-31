@@ -34,12 +34,14 @@ I have recently set up a Buy Me a Coffee page to help fund the ongoing developme
 
 ---
 
+## Free Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
+
+
+<!--
+
 ## Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
 
-
-
-
-
+-->
 
   <hr>
 
