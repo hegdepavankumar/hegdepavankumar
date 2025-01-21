@@ -26,9 +26,7 @@
 
 I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in its mission, I would be grateful for your support.
 
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ![bmc_qr (1)](https://github.com/user-attachments/assets/08d9539e-ba69-40b2-b4fc-50777fde9271)
 
