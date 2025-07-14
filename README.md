@@ -24,9 +24,9 @@
 
  <!-- Support Me --> 
 
-I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance efforts. Your contribution, no matter the size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in its mission, I would be grateful for your support.
+I have recently set up a Buy Me a Coffee page to help fund the ongoing development and maintenance of this project. Your contribution, regardless of its size, will go a long way in ensuring the project's continued success. If you find value in our Projects and believe in their mission, I would be grateful for your support.
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=hegdepavankumar&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ![https://buymeacoffee.com/hegdepavankumar](https://github.com/user-attachments/assets/08d9539e-ba69-40b2-b4fc-50777fde9271)
 
